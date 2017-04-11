@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from PIL import Image
 import sys, getopt
 from io import StringIO, BytesIO
